@@ -1,0 +1,964 @@
+{
+  "chapterNumber": 11,
+  "title": "فصل یازدهم",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "(۱  خلاصه مدیریتی: نقش سازندگان برتر در پایداری پروژه‌های صنعتی"
+    },
+    {
+      "type": "text",
+      "text": "انتخاب تجهیزات ابزار دقیق در مجتمع‌های نفت، گاز، پتروشیمی و نیروگاه تنها یک تصمیم خرید نیست؛ بلکه تصمیمی است که بر قابلیت اطمینان فرآیند، ایمنی کارکنان و هزینه چرخه عمر (Lifecycle Cost)  اثر مستقیم دارد. بر اساس گزارش‌های ارزیابی بازار ابزار دقیق فرآیندی، شرکت‌های Emerson، Siemens، ABB،  Yokogawa، Endress+Hauser و Honeywell  در صدر فهرست سازندگان برتر جهان قرار دارند. در بازار ترانسمیترهای فشار نیز گزارش پژوهشی سال 2025  Emerson، Yokogawa و Endress+Hauser  را به عنوان پیشروان صنعت ارزیابی کرده است. این فصل به عنوان فصل پایانی کتاب، نقشه شناختی کامل از برندها، حوزه تمرکز تکنولوژیک هر سازنده و تجهیزات شاخص هر متغیر فرآیندی را فراهم می‌کند تا مهندس ابزار دقیق در فرآیند انتخاب، تهیه مشخصات فنی (Data Sheet)  و مقایسه پیشنهادهای پیمانکاران (Technical Bid Evaluation)  به مرجعی یکپارچه دسترسی داشته باشد."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "دامنه و زمینه: سیر تحول بازار تجهیزات اندازه‌گیری و اتوماسیون فرآیندی",
+      "number": "۲"
+    },
+    {
+      "type": "text",
+      "text": "بازار ابزار دقیق فرآیندی طی سه دهه گذشته از تجهیزات آنالوگ مبتنی بر سیگنال ۴-۲۰  میلی‌آمپر به اکوسیستم دیجیتال مبتنی بر پروتکل‌های HART، FOUNDATION Fieldbus  و  PROFINET و اصول توسعه پایدار و اینترنت اشیای صنعتی  (IIoT) حرکت کرده است. مطابق رده‌بندی ارائه‌شده توسط Transpire Insight، شرکت‌هایی چون Emerson، Siemens و ABB علاوه بر سنسور و ترانسمیتر، سیستم‌های کنترل توزیع‌شده (DCS)  و سیستم‌های توقف اضطراری (SIS)  را نیز پوشش می‌دهند. در همین راستا، گزارش ارزیابی بین‌المللی ترانسمیترهای فشار سال ۲۰۲۵،  برندهایی نظیر Endress+Hauser را با پیشنهادهای یکپارچه در حوزه اندازه‌گیری فشار، دبی، سطح و آنالیز، رهبر بخش Process Instrumentation & Automation معرفی می‌کند. شناخت این زمینه، پیش‌نیاز درک جایگاه هر برند در متغیرهای فرآیندی است که در بخش تحلیل فصل تشریح می‌شود."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "(۳  تحلیل و یافته‌ها: غول‌های اتوماسیون صنعتی و حوزه تخصصی آن‌ها"
+    },
+    {
+      "type": "text",
+      "text": "در بازار اتوماسیون فرآیندی، بر اساس گزارش جامع ۲۵  شرکت برتر ابزار دقیق سال ۲۰۲۵  معرفی شده اند که حوزه تمرکز تکنولوژیک هر یک از غول‌های صنعتی به شرح زیر تفکیک می‌شود:"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Emerson Electric (آمریکا)"
+    },
+    {
+      "type": "text",
+      "text": "برند پیشرو در ابزار دقیق فرآیندی با زیرمجموعه‌های Rosemount  فشار، دما، سطح)، Micro Motion (دبی‌سنج کوریولیس)، Fisher  (شیرهای کنترلی) و DeltaV  (سیستم (DCS  بر اساس بررسی‌های صنعتی، Emerson Micro Motion  به عنوان مبتکر فناوری کوریولیس با بیش از سه دهه تجربه، دقت‌پذیرترین اندازه‌گیری جرمی را برای مایعات، گازها و دوغاب فراهم می‌کند."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Endress+Hauser (سوئیس/آلمان)"
+    },
+    {
+      "type": "text",
+      "text": "غول اروپایی ابزار دقیق فرآیندی که در بازار ترانسمیتر فشار سال  ۲۰۲۵ به عنوان یکی از سه پیشرو جهانی ارزیابی شده و به‌ویژه در دبی‌سنج‌های کوریولیس (خانواده Promass ) رادار سطح، و آنالایزرها (خانواده  (Liquiline  در صدر صنعت قرار دارد."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yokogawa Electric (ژاپن)"
+    },
+    {
+      "type": "text",
+      "text": "سازنده برجسته ترانسمیترهای فشار با فناوری سنسور تک‌بلور سیلیکونی  DPharp (خانواده EJA  (EJX سیستم کنترل  CENTUM و دبی‌سنج‌های ورتکسی. دقت و پایداری بلندمدت این ترانسمیترها در صنایع فرآیندی به یک معیار صنعتی تبدیل شده است."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Siemens (آلمان)"
+    },
+    {
+      "type": "text",
+      "text": "تأمین‌کننده یکپارچه اتوماسیون با ترانسمیترهای  SITRANS، دبی‌سنج‌های اولتراسونیک و کوریولیس، سیستم کنترل PCS 7  و پروتکل صنعتی PROFINET؛ در حوزه رادار سطح نیز یکی از پنج برند برتر جهانی شناخته می‌شود."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ABB (سوئیس)"
+    },
+    {
+      "type": "text",
+      "text": "از پیشگامان اتوماسیون برقی و صنعتی با ترانسمیترهای ۲۶۶ و ۲۶۰۰T، سیستم DCS 800xA و رله‌های حفاظتی؛ پوشش گسترده‌ای در پروژه‌های نیروگاهی و سیمان دارد."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Honeywell (آمریکا)"
+    },
+    {
+      "type": "text",
+      "text": "طراح سیستم کنترل  Experion PKS و ترانسمیترهای SmartLine؛ در صنایع پالایشی به دلیل تجربه بلندمدت در کنترل پیشرفته (APC)  شناخته می‌شود."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "VEGA (آلمان) و KROHNE (آلمان)"
+    },
+    {
+      "type": "text",
+      "text": "VEGA در ابزار دقیق سطح (رادارهای خانواده  VEGAPULS و  VEGAFLEX و  (KROHNE در دبی‌سنج‌های الکترومغناطیسی و اولتراسونیک و رادارهای سطح، جزو پنج برند برتر جهانی رادار سطح معرفی شده‌اند."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "پیشنهادهای اجرایی و انتخاب تجهیزات شاخص صنعت",
+      "number": "۴"
+    },
+    {
+      "type": "text",
+      "text": "در این بخش، بر مبنای ارزیابی‌های فنی و بررسی  ۱۰ سازنده برتر فلومترهای جرمی کوریولیس در جهان (Aister Meter)، تجهیزات شاخص و خانواده‌های محصول نام‌دار در بازار صنعت بر اساس متغیر فرآیندی به شرح زیر معرفی و مقایسه می‌شوند:"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "اندازه‌گیری فشار و اختلاف فشار (Pressure & DP)"
+    },
+    {
+      "type": "text",
+      "text": "Rosemount 3051S / 3051C (Emerson) پرکاربردترین ترانسمیتر فشار در صنایع نفت و گاز با دقت پایه تا  و پایداری بلندمدت  ۱۰ ساله."
+    },
+    {
+      "type": "text",
+      "text": "Yokogawa EJX / EJA-E Series مبتنی بر سنسور رزونانس سیلیکونی  DPharp با عملکرد هم‌زمان اندازه‌گیری فشار تفاضلی و فشار استاتیک خط."
+    },
+    {
+      "type": "text",
+      "text": "Endress+Hauser Cerabar & Deltabar ترانسمیترهای فشار مجهز به سنسور سرامیکی بدون روغن Ceraphire  مناسب برای کاربردهای خلأ و خورنده."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "اندازه‌گیری دبی و جریان سیال (Flow)"
+    },
+    {
+      "type": "text",
+      "text": "Micro Motion ELITE / F-Series (Emerson) پرچمدار فلومترهای جرمی کوریولیس با بالاترین دقت اندازه‌گیری در انتقال مالکیت (Custody Transfer) مایعات و گازها."
+    },
+    {
+      "type": "text",
+      "text": "Endress+Hauser Proline Promass (F/Q/X) خانواده پرچمدار کوریولیس با تکنولوژی عیب‌یابی Heartbeat  و پایداری در جریان‌های دوفازی."
+    },
+    {
+      "type": "text",
+      "text": "KROHNE OPTIMASS  و OPTIFLUX: پیشتاز در دبی‌سنج‌های الکترومغناطیسی با لاینرهای سرامیکی برای سیالات خورنده معدنی و شیمیایی."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "اندازه‌گیری سطح مایعات و جامدات (Level)"
+    },
+    {
+      "type": "text",
+      "text": "VEGAPULS 6X (VEGA) رادار فرکانس بالای ۸۰ گیگاهرتز با تفکیک‌پذیری عالی و قابلیت عملکرد در گرد و غبار شدید یا فوم غلیظ (BCST Group)."
+    },
+    {
+      "type": "text",
+      "text": "Rosemount 5408 (Emerson) ترانسمیتر راداری موج‌مداوم (FMCW) با گواهینامه SIL 2/3 برای مخازن ذخیره هیدروکربوری."
+    },
+    {
+      "type": "text",
+      "text": "Endress+Hauser Micropilot & Levelflex رادارهای تماسی (Guided Wave Radar)  و غیرتماسی برای سیالات با دی‌الکتریک پایین."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "اندازه‌گیری دما (Temperature)"
+    },
+    {
+      "type": "text",
+      "text": "Rosemount 3144P / 644 (Emerson) ترانسمیترهای دمای هدمونت و فیلدمونت با ورودی دوتایی سنسور و قابلیت سوئیچ خودکار در صورت خرابی المنت."
+    },
+    {
+      "type": "text",
+      "text": "Endress+Hauser iTEMP (TMT82 / TMT162) ترانسمیتر دما با دو کانال مجزا و قابلیت اتصال به سنسورهای RTD و ترموکوپل."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "برخی حروف اختصاری و مفهوم آن در انتخاب تجهیزات ابزار دقیق :"
+    },
+    {
+      "type": "text",
+      "text": "DP = فشار تفاضلی"
+    },
+    {
+      "type": "text",
+      "text": "GWR/TDR = رادار هدایت‌شونده"
+    },
+    {
+      "type": "text",
+      "text": "FMCW = رادار موج پیوسته با مدولاسیون فرکانسی"
+    },
+    {
+      "type": "text",
+      "text": "Coriolis = کوریولیس"
+    },
+    {
+      "type": "text",
+      "text": "Magnetic = مغناطیسی"
+    },
+    {
+      "type": "text",
+      "text": "Vortex = ورتکس"
+    },
+    {
+      "type": "text",
+      "text": "Ultrasonic = اولتراسونیک"
+    },
+    {
+      "type": "text",
+      "text": "DCS = سیستم کنترل توزیع‌شده"
+    },
+    {
+      "type": "text",
+      "text": "PLC/Controller = کنترلر"
+    },
+    {
+      "type": "text",
+      "text": "Analyzer = آنالایزر"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "جداول انتخاب تجهیز ابزار دقیق بر اساس نوع کمیت و بین تولید کنندگان برتر"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "فشار"
+    },
+    {
+      "type": "text",
+      "text": "ترانسمیترهای فشار گیج، مطلق و تفاضلی و راهکارهای چندمتغیره مرتبط با فشار."
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "خانواده / مدل",
+          "اصل اندازه‌گیری",
+          "کاربرد شاخص",
+          "خروجی/ارتباط متداول",
+          "نکته فنی"
+        ],
+        [
+          "Emerson",
+          "Rosemount 3051 / 4051S",
+          "سنسور فشار + پردازش دیجیتال",
+          "فشار، DP، سطح و DP Flow",
+          "4–20 mA، HART؛ برخی گزینه‌های دیجیتال",
+          "رنج و Remote Seal وابسته به پیکربندی"
+        ],
+        [
+          "Endress+Hauser",
+          "Cerabar / Deltabar",
+          "سلول فشار / DP",
+          "فشار و DP",
+          "4–20 mA، HART؛ Fieldbus در برخی مدل‌ها",
+          "برای فشار و DP فرایندی"
+        ],
+        [
+          "Yokogawa",
+          "EJA-E / EJX-A",
+          "سیلیکون DPharp",
+          "فشار و DP",
+          "4–20 mA، HART و گزینه‌های Fieldbus",
+          "خانواده EJA/EJX برای فرایندهای صنعتی"
+        ],
+        [
+          "Siemens",
+          "SITRANS P320 / P420",
+          "سنسور فشار + پردازش دیجیتال",
+          "Gauge، Absolute، DP",
+          "4–20 mA/HART؛ گزینه‌های ارتباطی",
+          "SITRANS P در سبد Process Instrumentation"
+        ],
+        [
+          "ABB",
+          "2600T 266",
+          "سنسور فشار/DP",
+          "Gauge، Absolute، DP، Multivariable",
+          "4–20 mA/HART",
+          "266 شامل مدل‌های DP و چندمتغیره است"
+        ],
+        [
+          "Honeywell",
+          "SmartLine ST700 / ST800",
+          "سنسور فشار و DP",
+          "Pressure / DP",
+          "4–20 mA/HART؛ بسته به مدل",
+          "خانواده SmartLine"
+        ],
+        [
+          "VEGA",
+          "VEGABAR 18/28/38/81/82/83",
+          "سلول فشار سرامیکی یا فلزی بسته به مدل",
+          "Pressure / Hydrostatic Level",
+          "4–20 mA/HART بسته به مدل",
+          "VEGA تمرکز ویژه‌ای بر فشار و سطح دارد"
+        ],
+        [
+          "KROHNE",
+          "OPTIBAR",
+          "سلول فشار / DP",
+          "Pressure / DP",
+          "4–20 mA/HART بسته به مدل",
+          "برای فشار فرایندی و کاربردهای مرتبط"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "دما"
+    },
+    {
+      "type": "text",
+      "text": "ترانسمیترهای دما ، ترموکوپل و سنسورهای فرایندی."
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "خانواده / مدل",
+          "اصل اندازه‌گیری",
+          "کاربرد شاخص",
+          "خروجی/ارتباط متداول",
+          "نکته فنی"
+        ],
+        [
+          "Emerson",
+          "Rosemount 3144S / 644",
+          "تبدیل RTD/TC به سیگنال دیجیتال/آنالوگ",
+          "دما در خطوط و تجهیزات",
+          "4–20 mA/HART؛ برخی گزینه‌های Wireless",
+          "نوع سنسور و پیکربندی تعیین‌کننده رنج است"
+        ],
+        [
+          "Endress+Hauser",
+          "iTEMP TMT71 / TMT72",
+          "RTD/TC/مقاومتی",
+          "فرایند و ماشین‌آلات",
+          "4–20 mA/HART؛ برخی Fieldbus",
+          "ترانسمیترهای Head/Field بسته به مدل"
+        ],
+        [
+          "Yokogawa",
+          "YTA610 / YTA710",
+          "RTD/TC و ورودی‌های چندگانه",
+          "Temperature Transmitter",
+          "4–20 mA/HART",
+          "YTA610/YTA710 در فهرست تجهیزات SIL یوکوگاوا نیز آمده‌اند"
+        ],
+        [
+          "Siemens",
+          "SITRANS T",
+          "RTD/TC",
+          "اندازه‌گیری دما",
+          "4–20 mA/HART و گزینه‌های دیگر",
+          "خانواده SITRANS T"
+        ],
+        [
+          "ABB",
+          "TTF300 / SensyTemp TSP300",
+          "RTD/TC",
+          "فرایندی و صنعتی",
+          "4–20 mA/HART بسته به مدل",
+          "TTF300 ترانسمیتر Field-mount است"
+        ],
+        [
+          "Honeywell",
+          "SmartLine STT700 / STT850",
+          "RTD/TC",
+          "Temperature Measurement",
+          "4–20 mA/HART بسته به مدل",
+          "برای کاربردهای فرایندی"
+        ],
+        [
+          "VEGA",
+          "—",
+          "—",
+          "—",
+          "—",
+          "تمرکز اصلی VEGA فشار/سطح است"
+        ],
+        [
+          "KROHNE",
+          "OPTITEMP",
+          "RTD/TC + transmitter",
+          "دما در فرایند",
+          "4–20 mA/HART بسته به مدل",
+          "خانواده OPTITEMP"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "سطح"
+    },
+    {
+      "type": "text",
+      "text": "فناوری‌ها: Radar، GWR، Ultrasonic، Hydrostatic، Magnetostrictive و Radiometric."
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "مدل/خانواده",
+          "فناوری",
+          "کاربرد شاخص",
+          "خروجی/ارتباط متداول",
+          "ملاحظه انتخاب"
+        ],
+        [
+          "Emerson",
+          "Rosemount 5408 / 3408",
+          "Radar",
+          "مخازن و سطح پیوسته",
+          "4–20 mA/HART بسته به مدل",
+          "انتخاب آنتن، فرکانس و نصب مهم است"
+        ],
+        [
+          "Emerson",
+          "Rosemount 5300",
+          "GWR/TDR",
+          "مایعات و رابط سطح",
+          "4–20 mA/HART",
+          "پروب با توجه به مخزن انتخاب می‌شود"
+        ],
+        [
+          "Endress+Hauser",
+          "Micropilot FMR",
+          "Radar",
+          "سطح پیوسته",
+          "4–20 mA/HART و دیجیتال بسته به مدل",
+          "برای مخازن و فرایندهای مختلف"
+        ],
+        [
+          "Endress+Hauser",
+          "Levelflex FMP",
+          "GWR",
+          "سطح و Interface",
+          "4–20 mA/HART",
+          "پروب و ثابت دی‌الکتریک مهم است"
+        ],
+        [
+          "Endress+Hauser",
+          "Prosonic FMU / Gammapilot",
+          "Ultrasonic / Radiometric",
+          "شرایط دشوار و جامدات/مایعات",
+          "بسته به مدل",
+          "برای کاربردهای خاص فرایندی"
+        ],
+        [
+          "Yokogawa",
+          "Radar Level / EJA-E/EJX-A",
+          "Radar / DP",
+          "سطح مخزن",
+          "بسته به مدل",
+          "در DP Level از فشار تفاضلی استفاده می‌شود"
+        ],
+        [
+          "Siemens",
+          "SITRANS LR / LG / LU",
+          "Radar / GWR / Ultrasonic",
+          "سطح مایعات و جامدات",
+          "HART و گزینه‌های دیجیتال",
+          "SITRANS LR/LU/LG خانواده‌های شناخته‌شده‌اند"
+        ],
+        [
+          "ABB",
+          "MT5100 / MT5000 / LMT100/200",
+          "Radar / GWR / Magnetostrictive",
+          "مایعات و Interface",
+          "بسته به مدل",
+          "ABB علاوه بر Radar، Magnetostrictive نیز دارد"
+        ],
+        [
+          "Honeywell",
+          "SmartLine GWR / SLN700",
+          "GWR / Non-contact Radar",
+          "Level",
+          "بسته به مدل",
+          "انتخاب بین تماس‌دار و بدون تماس"
+        ],
+        [
+          "VEGA",
+          "VEGAPULS / VEGAFLEX / VEGASON",
+          "Radar / GWR / Ultrasonic",
+          "سطح مایع و جامد",
+          "4–20 mA/HART بسته به مدل",
+          "یکی از حوزه‌های اصلی سبد VEGA"
+        ],
+        [
+          "KROHNE",
+          "OPTIWAVE / OPTIFLEX / BM26",
+          "Radar / GWR / Magnetic Level Gauge",
+          "Level / Interface",
+          "بسته به مدل",
+          "BM26 برای نمایش/اندازه‌گیری سطح با فناوری شناوری و مگنتی"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "دبی"
+    },
+    {
+      "type": "text",
+      "text": "مقایسه فناوری‌های Coriolis، Electromagnetic، Ultrasonic، Vortex و DP."
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "مدل/خانواده",
+          "فناوری",
+          "پارامتر اصلی",
+          "خروجی/ارتباط متداول",
+          "کاربرد"
+        ],
+        [
+          "Emerson",
+          "Micro Motion ELITE / F-Series",
+          "Coriolis",
+          "جرم، چگالی، دما",
+          "4–20 mA/HART و دیجیتال بسته به مدل",
+          "مایع، گاز و دوغاب بسته به مدل"
+        ],
+        [
+          "Emerson",
+          "Rosemount 8700/8750",
+          "Electromagnetic",
+          "دبی حجمی",
+          "4–20 mA/HART و دیجیتال بسته به مدل",
+          "سیالات رسانا"
+        ],
+        [
+          "Emerson",
+          "Rosemount 8800",
+          "Vortex",
+          "دبی حجمی/جرمی محاسباتی",
+          "4–20 mA/HART",
+          "مایعات، گاز و بخار با توجه به کاربرد"
+        ],
+        [
+          "Endress+Hauser",
+          "Promass",
+          "Coriolis",
+          "جرم و چگالی",
+          "4–20 mA/HART و دیجیتال",
+          "جرم/چگالی"
+        ],
+        [
+          "Endress+Hauser",
+          "Promag",
+          "Electromagnetic",
+          "دبی حجمی",
+          "4–20 mA/HART و دیجیتال",
+          "سیالات رسانا"
+        ],
+        [
+          "Endress+Hauser",
+          "Prosonic Flow / Prowirl",
+          "Ultrasonic / Vortex",
+          "دبی حجمی",
+          "بسته به مدل",
+          "آب، گاز، بخار و کاربردهای صنعتی"
+        ],
+        [
+          "Yokogawa",
+          "ROTAMASS",
+          "Coriolis",
+          "جرم و چگالی",
+          "4–20 mA/HART و دیجیتال بسته به مدل",
+          "Mass Flow"
+        ],
+        [
+          "Yokogawa",
+          "ADMAG AXG/AXW",
+          "Electromagnetic",
+          "دبی حجمی",
+          "4–20 mA/HART و دیجیتال",
+          "سیالات رسانا"
+        ],
+        [
+          "Yokogawa",
+          "YEWFLO",
+          "Vortex",
+          "دبی",
+          "4–20 mA/HART بسته به مدل",
+          "گاز، مایع و بخار"
+        ],
+        [
+          "Siemens",
+          "SITRANS F C / F M / F US",
+          "Coriolis / Magnetic / Ultrasonic",
+          "جرم یا حجم",
+          "HART/Fieldbus بسته به مدل",
+          "خانواده‌های اصلی SITRANS F"
+        ],
+        [
+          "ABB",
+          "CoriolisMaster FCB/FCH / FEP / FSV/FSS",
+          "Coriolis / EMF / Vortex / Swirl",
+          "جرم یا حجم",
+          "بسته به مدل",
+          "ABB سبد متنوع Flow دارد"
+        ],
+        [
+          "Honeywell",
+          "VersaFlow",
+          "Coriolis / Magnetic / Vortex / Clamp-on",
+          "جرم یا حجم",
+          "بسته به مدل",
+          "چند فناوری در خانواده VersaFlow"
+        ],
+        [
+          "KROHNE",
+          "OPTIMASS / OPTIFLUX / OPTISONIC / OPTISWIRL",
+          "Coriolis / Magnetic / Ultrasonic / Vortex",
+          "جرم یا حجم",
+          "بسته به مدل",
+          "یکی از حوزه‌های اصلی KROHNE"
+        ],
+        [
+          "VEGA",
+          "—",
+          "—",
+          "—",
+          "—",
+          "تمرکز اصلی شرکت دبی نیست"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "آنالیز فرایندی"
+    },
+    {
+      "type": "text",
+      "text": "pH/ORP، هدایت، اکسیژن محلول و آنالیز گاز و ترکیب."
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "مدل/خانواده",
+          "اصل/پارامتر",
+          "کاربرد",
+          "خروجی/ارتباط متداول",
+          "نکته"
+        ],
+        [
+          "Emerson",
+          "Rosemount Analytical",
+          "pH/ORP، Conductivity، O2 و Gas Analysis",
+          "آب و فرایند",
+          "بسته به مدل",
+          "سبد Analytical مستقل"
+        ],
+        [
+          "Endress+Hauser",
+          "Liquiline / Memosens",
+          "pH/ORP، Conductivity، O2 و پارامترهای آب",
+          "آنالیز مایع",
+          "بسته به مدل",
+          "Memosens خانواده حسگرهای دیجیتال"
+        ],
+        [
+          "Yokogawa",
+          "FLXA / TDLS8000/8100/8200",
+          "pH/ORP و TDL Gas Analysis",
+          "مایع و گاز",
+          "بسته به مدل",
+          "TDLS در فهرست تجهیزات SIL نیز آمده است"
+        ],
+        [
+          "Siemens",
+          "ULTRAMAT / LDS / SIPAN",
+          "Gas Analysis",
+          "ترکیب و غلظت گاز",
+          "بسته به مدل",
+          "Process Analytics"
+        ],
+        [
+          "ABB",
+          "Advance Optima / EasyLine / NGC",
+          "Gas Analysis / GC",
+          "گاز و ترکیب هیدروکربنی",
+          "بسته به مدل",
+          "NGC برای Gas Chromatography"
+        ],
+        [
+          "Honeywell",
+          "Durafet / UDA",
+          "pH/ORP و تحلیل آب",
+          "آب و فرایند",
+          "بسته به مدل",
+          "UDA2182 در کاربردهای تحلیلی"
+        ],
+        [
+          "VEGA",
+          "—",
+          "—",
+          "—",
+          "—",
+          "تمرکز اصلی VEGA آنالیز نیست"
+        ],
+        [
+          "KROHNE",
+          "SMARTPAT / Process Analytics",
+          "pH، Conductivity، DO و سایر",
+          "آب و فرایند",
+          "بسته به مدل",
+          "SMARTPAT خانواده سنسورها"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "وزن، جرم و جامدات"
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "مدل/خانواده",
+          "فناوری",
+          "پارامتر",
+          "خروجی/ارتباط",
+          "کاربرد"
+        ],
+        [
+          "Emerson",
+          "Micro Motion ELITE / F-Series",
+          "Coriolis",
+          "جرم و چگالی",
+          "دیجیتال/4–20 mA بسته به مدل",
+          "Mass Flow و Density"
+        ],
+        [
+          "Endress+Hauser",
+          "Promass",
+          "Coriolis",
+          "جرم و چگالی",
+          "بسته به مدل",
+          "Mass Flow"
+        ],
+        [
+          "Yokogawa",
+          "ROTAMASS",
+          "Coriolis",
+          "جرم و چگالی",
+          "بسته به مدل",
+          "Mass Flow / Density"
+        ],
+        [
+          "Siemens",
+          "SIWAREX WP / FTC / WP321",
+          "Load cell / Weighing electronics",
+          "وزن، توزین و دوزینگ",
+          "PROFINET/PROFIBUS یا بسته به ماژول",
+          "توزین، Belt Scale، Weighfeeder"
+        ],
+        [
+          "ABB",
+          "Flow/Mass solutions",
+          "Mass Flow",
+          "جرم سیال",
+          "بسته به محصول",
+          "بیشتر از مسیر اندازه‌گیری جریان"
+        ],
+        [
+          "Honeywell",
+          "VersaFlow / SMV800",
+          "Coriolis / Multivariable",
+          "جرم و متغیرهای فرایند",
+          "بسته به مدل",
+          "اندازه‌گیری فرایندی"
+        ],
+        [
+          "VEGA",
+          "Density / Bulk Solids solutions",
+          "Density / Level",
+          "چگالی و جامدات",
+          "بسته به محصول",
+          "تمرکز مرتبط با سطح و جامدات"
+        ],
+        [
+          "KROHNE",
+          "OPTIMASS",
+          "Coriolis",
+          "جرم و چگالی",
+          "بسته به مدل",
+          "Mass Flow / Density"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "موقعیت شیر"
+    },
+    {
+      "type": "text",
+      "text": "Positioner واسط میان سیستم کنترل و عملگر شیر است و معمولاً سیگنال فرمان را به حرکت دقیق شیر تبدیل می‌کند."
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "مدل/خانواده",
+          "اصل عملکرد",
+          "فرمان/ارتباط",
+          "کاربرد",
+          "نکته فنی"
+        ],
+        [
+          "Emerson / Fisher",
+          "FIELDVUE DVC Series",
+          "Position feedback + pneumatic control",
+          "4–20 mA/HART بسته به مدل",
+          "کنترل شیرهای خطی/روتاری",
+          "برای Valve Automation"
+        ],
+        [
+          "Endress+Hauser",
+          "—",
+          "—",
+          "—",
+          "—",
+          "در مقایسه با سازندگان Valve Automation تمرکز محدودتر"
+        ],
+        [
+          "Yokogawa",
+          "PK200",
+          "I/P conversion",
+          "فرمان الکتریکی به پنوماتیک",
+          "Actuator/Valve",
+          "در خانواده Field Instruments"
+        ],
+        [
+          "Siemens",
+          "SIPART PS2 / PS100",
+          "Electro-pneumatic positioning",
+          "4–20 mA/HART یا نسخه‌های مرتبط",
+          "Control Valve",
+          "Positioner خانواده SIPART"
+        ],
+        [
+          "ABB",
+          "TZIDC / EDP300",
+          "Digital position control",
+          "4–20 mA/HART؛ نسخه‌های Fieldbus",
+          "Linear/Rotary Actuator",
+          "TZIDC و EDP300 از محصولات رسمی ABB هستند"
+        ],
+        [
+          "Honeywell",
+          "Valve/ControlEdge solutions",
+          "Valve control",
+          "بسته به سیستم",
+          "Control Valve",
+          "تمرکز بیشتر بر اتوماسیون و کنترل"
+        ],
+        [
+          "VEGA",
+          "—",
+          "—",
+          "—",
+          "—",
+          "محصول شاخص مستقل Positioner ندارد"
+        ],
+        [
+          "KROHNE",
+          "Smart Flow Control",
+          "Flow control",
+          "بسته به راهکار",
+          "کنترل جریان",
+          "در مقایسه با Fisher/ABB/Siemens حوزه Positioner محدودتر"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "سیستم کنترل و اتوماسیون"
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "شرکت",
+          "DCS / سیستم اصلی",
+          "PLC / Controller",
+          "ارتباط و یکپارچه‌سازی",
+          "کاربرد"
+        ],
+        [
+          "Emerson",
+          "DeltaV",
+          "Controllers / PAC",
+          "HART، Foundation Fieldbus و شبکه‌های صنعتی بسته به معماری",
+          "Process Control"
+        ],
+        [
+          "Endress+Hauser",
+          "Automation Solutions",
+          "Controllers / System Products",
+          "ارتباط با Field Instruments و مدیریت دارایی",
+          "Process Automation"
+        ],
+        [
+          "Yokogawa",
+          "CENTUM VP",
+          "FA-M3",
+          "شبکه‌های صنعتی و SIS",
+          "Process Control"
+        ],
+        [
+          "Siemens",
+          "SIMATIC PCS 7 / PCS neo",
+          "SIMATIC S7",
+          "PROFINET/PROFIBUS و TIA Portal",
+          "Process & Factory Automation"
+        ],
+        [
+          "ABB",
+          "System 800xA",
+          "AC500",
+          "شبکه‌های صنعتی و Ability",
+          "Process Automation"
+        ],
+        [
+          "Honeywell",
+          "Experion PKS",
+          "ControlEdge",
+          "شبکه و کنترل یکپارچه فرایندی",
+          "Process Control"
+        ],
+        [
+          "VEGA",
+          "VEGA Integration / Software",
+          "—",
+          "Integration / Device Management",
+          "مدیریت و یکپارچه‌سازی تجهیزات VEGA"
+        ],
+        [
+          "KROHNE",
+          "—",
+          "—",
+          "Smart Flow / Digital Integration",
+          "تمرکز اصلی بر Field Instrumentation"
+        ]
+      ]
+    }
+  ]
+}
